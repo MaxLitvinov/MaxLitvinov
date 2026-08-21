@@ -41,9 +41,5 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - **[LUMINA](https://github.com/MaxLitvinov/LUMINA)** — Media Storage App, застосунок для зберігання медіа
 - **[multiuser-telegram-shop-bot](https://github.com/MaxLitvinov/multiuser-telegram-shop-bot)** — рефакторинг Telegram shop-бота на Python: виправлено архітектурні проблеми, впроваджено user sessions замість глобального стану, покращено обробку станів і стабільність
 
-## 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxLitvinov&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=MaxLitvinov&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
+📈 GitHub Stats
+<p align="left"> <img src="https://img.shields.io/github/followers/MaxLitvinov?label=Followers&style=for-the-badge&color=blue" alt="Followers"/> <img src="https://img.shields.io/github/stars/MaxLitvinov?label=Stars&style=for-the-badge&color=yellow" alt="Stars"/> <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/MaxLitvinov&label=Repos&query=$.public_repos&style=for-the-badge&color=green" alt="Repos"/> </p>
