@@ -35,8 +35,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 **Бази даних:** MySQL, MongoDB
 **Інфраструктура/тули:** Git, Linux, Docker, CI/CD
 
-> ℹ️ Це база для мідл+ full-stack розробника з C++ ядром. Приберіть, що не використовували, додайте специфіку (Qt, Boost, embedded-фреймворки з military-tech тощо).
-
 ## 🚀 Проєкти
 
 - **[BlackJack-remaster](https://github.com/MaxLitvinov/BlackJack-remaster)** — переписана версія гри BlackJack на C#
