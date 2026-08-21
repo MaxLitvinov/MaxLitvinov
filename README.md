@@ -46,12 +46,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaxLitvinov&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaxLitvinov&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MaxLitvinov&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=MaxLitvinov&theme=dark&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
-
-## 📫 Контакти
-
-- 💼 LinkedIn: [посилання]
-- ✉️ Email: [реальна пошта]
-- 🌐 Портфоліо / сайт: [якщо є]
