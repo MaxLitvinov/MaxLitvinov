@@ -31,8 +31,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 **Backend / Core:** C++, C#, Node.js
+
 **Frontend:** JavaScript, TypeScript, React, HTML5, CSS3
+
 **Бази даних:** MySQL, MongoDB
+
 **Інфраструктура/тули:** Git, Linux, Docker, CI/CD
 
 ## 🚀 Проєкти
